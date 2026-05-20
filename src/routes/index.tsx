@@ -2,7 +2,7 @@ import { createFileRoute } from "@tanstack/react-router";
 import { useEffect, useState } from "react";
 import {
   Shield, CheckCircle, ArrowRight, Star, Zap, Lock, TrendingUp,
-  Globe, AlertTriangle, Eye, Smartphone, Menu, X, Play, Sparkles,
+  Globe, AlertTriangle, Eye, Smartphone, Menu, X, Sparkles,
   ChevronDown, ShieldCheck, FileWarning, Gauge,
 } from "lucide-react";
 
